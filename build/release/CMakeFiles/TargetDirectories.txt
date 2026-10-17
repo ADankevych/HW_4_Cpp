@@ -1,0 +1,12 @@
+/Users/anastasia_d/CLionProjects/HW3/build/release/CMakeFiles/edit_cache.dir
+/Users/anastasia_d/CLionProjects/HW3/build/release/CMakeFiles/rebuild_cache.dir
+/Users/anastasia_d/CLionProjects/HW3/build/release/source/CMakeFiles/edit_cache.dir
+/Users/anastasia_d/CLionProjects/HW3/build/release/source/CMakeFiles/rebuild_cache.dir
+/Users/anastasia_d/CLionProjects/HW3/build/release/source/libraries/CMakeFiles/edit_cache.dir
+/Users/anastasia_d/CLionProjects/HW3/build/release/source/libraries/CMakeFiles/rebuild_cache.dir
+/Users/anastasia_d/CLionProjects/HW3/build/release/source/libraries/fibonacci/CMakeFiles/fibonacci_lib.dir
+/Users/anastasia_d/CLionProjects/HW3/build/release/source/libraries/fibonacci/CMakeFiles/edit_cache.dir
+/Users/anastasia_d/CLionProjects/HW3/build/release/source/libraries/fibonacci/CMakeFiles/rebuild_cache.dir
+/Users/anastasia_d/CLionProjects/HW3/build/release/source/application/CMakeFiles/fibonacci_app.dir
+/Users/anastasia_d/CLionProjects/HW3/build/release/source/application/CMakeFiles/edit_cache.dir
+/Users/anastasia_d/CLionProjects/HW3/build/release/source/application/CMakeFiles/rebuild_cache.dir

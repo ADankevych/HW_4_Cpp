@@ -1,0 +1,17 @@
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/CMakeFiles/edit_cache.dir
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/CMakeFiles/rebuild_cache.dir
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/source/CMakeFiles/edit_cache.dir
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/source/CMakeFiles/rebuild_cache.dir
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/source/libraries/CMakeFiles/edit_cache.dir
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/source/libraries/CMakeFiles/rebuild_cache.dir
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/source/libraries/elevator/CMakeFiles/elevator_lib.dir
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/source/libraries/elevator/CMakeFiles/edit_cache.dir
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/source/libraries/elevator/CMakeFiles/rebuild_cache.dir
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/source/application/CMakeFiles/elevator_app.dir
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/source/application/CMakeFiles/edit_cache.dir
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/source/application/CMakeFiles/rebuild_cache.dir
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/source/experiments/CMakeFiles/edit_cache.dir
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/source/experiments/CMakeFiles/rebuild_cache.dir
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/source/experiments/probe/CMakeFiles/probe_app.dir
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/source/experiments/probe/CMakeFiles/edit_cache.dir
+/Users/anastasia_d/CLionProjects/HW4_cpp/HW4/build/debug/source/experiments/probe/CMakeFiles/rebuild_cache.dir

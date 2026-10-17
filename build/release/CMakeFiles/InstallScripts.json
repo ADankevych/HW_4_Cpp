@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/anastasia_d/CLionProjects/HW3/build/release/cmake_install.cmake",
+		"/Users/anastasia_d/CLionProjects/HW3/build/release/source/cmake_install.cmake",
+		"/Users/anastasia_d/CLionProjects/HW3/build/release/source/libraries/cmake_install.cmake",
+		"/Users/anastasia_d/CLionProjects/HW3/build/release/source/libraries/fibonacci/cmake_install.cmake",
+		"/Users/anastasia_d/CLionProjects/HW3/build/release/source/application/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

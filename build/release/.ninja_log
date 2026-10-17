@@ -1,0 +1,5 @@
+# ninja log v7
+0	43	1790686568518252268	source/libraries/fibonacci/CMakeFiles/fibonacci_lib.dir/src/fibonacci.cpp.o	45d1d42b4068300b
+43	82	1790686568561120420	source/libraries/fibonacci/libfibonacci_lib.a	5e2f3fdb56e1ba08
+1	710	1790686568518432226	source/application/CMakeFiles/fibonacci_app.dir/src/main.cpp.o	11095a78404ec1be
+711	745	1790686569228447134	source/application/fibonacci_app	84db418452511885

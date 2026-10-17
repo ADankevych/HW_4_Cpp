@@ -1,0 +1,9 @@
+# ninja log v7
+0	42	1792236519339129611	source/libraries/elevator/CMakeFiles/elevator_lib.dir/src/elevator.cpp.o	81175b87f4e49bc1
+42	83	1792236519381392696	source/libraries/elevator/libelevator_lib.a	d9dc314ded215d18
+1	593	1792236519339466860	source/experiments/probe/CMakeFiles/probe_app.dir/src/main.cpp.o	acfce3c226e4800b
+0	594	1792236519339331277	source/application/CMakeFiles/elevator_app.dir/src/main.cpp.o	de4a3ae3e5a2e9a5
+594	634	1792236519933247341	source/application/elevator_app	bbb6a3e47de85d39
+594	634	1792236519932664885	source/experiments/probe/probe_app	342d778e33e307c1
+12	701	1792237229747979607	source/application/CMakeFiles/elevator_app.dir/src/main.cpp.o	de4a3ae3e5a2e9a5
+701	834	1792237230437364634	source/application/elevator_app	bbb6a3e47de85d39
